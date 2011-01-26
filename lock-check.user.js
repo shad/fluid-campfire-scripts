@@ -12,7 +12,6 @@
 
   // TODO: Need to hook into the campfire events instead of rerunning this
   // every second.
-  
 
   function checkForLock() {
     var divs = $$('div.body'),
