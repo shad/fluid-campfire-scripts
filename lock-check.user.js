@@ -56,6 +56,7 @@
 
 
   if (window.fluid) {
+    alert('here');
     checkForLock();
   }
 })();
